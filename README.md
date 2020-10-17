@@ -126,6 +126,7 @@ Questions can be asked by raising an `Issue`.
 - [Asharib Ahmed](https://github.com/Asharib90)
 - [Ashish Chavan](https://github.com/AshishChavan98)
 - [Aswin Asok](https://github.com/AswinAsok)
+- [Beven Nyamande aka 0xbeven](https://github.com/bevennyamande)
 - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
 - [Bineet Naidu](https://github.com/bineetNaidu)
